@@ -1,34 +1,45 @@
-## Data Analyst Portofolio using Microsoft SQL Server (SSMS) and Tableau.
+## Analysis of COVID-19 Cases and Vaccinations by Country using Microsoft SQL Server (SSMS) and Tableau.
 
 
-#### Flow for this Portofolio:
-1. Collect and Explore the data *(using SQL Server)*
-2. Cleaning the data *(using SQL Server)*
-3. Define the problem 
-4. Data Visualization *(using Tableau)*
+#### Project Overview:
+This project aims to collect, explore, clean, analyze, and visualize COVID-19 data using SQL Server and Tableau. The project will focus on the total cases vs total deaths, total cases vs population, percentage of population infected with COVID-19, countries with the highest infection rate and death count compared to the population, continents with the highest death count, global numbers, and percentage of population that has received at least one COVID-19 vaccine. The project will create an interactive dashboard that tracks global vaccinations, shows the percentage of population that has received at least one COVID-19 vaccine, and examines the effect of GDP per capita on vaccinations.
 
 ---
 
-#### What I'm trying to analyze from this data is:
-1. Total Cases vs Total Deaths
-2. Total Cases vs Population
-3. Shows what percentage of population infected with Covid-19
-4. Countries with Highest Infection Rate compared to Population
-5. Countries with Highest Death Count compared to Population
-6. Showing contintents with the highest death
-7. The **Global Numbers** *(total Infections, world's population, perent of people infected)* 
-8. Shows Percentage of Population that has recieved at least one Covid-19 Vaccine
+#### Project Flow:
+1. Collect and explore COVID-19 data using *SQL Server*.
+2. Clean the data by handling missing values, and correcting data types.
+3. Define the problem by identifying the key questions and objectives of the analysis.
+4. Analyze the data using SQL functions such as:
+- Group by
+- Order by
+- Joins
+- Aggregate functions
+- Converting data types
+- Windows functions
+- Temp table
+- Visualize the data using Tableau by creating interactive dashboards and charts.
 
 ---
 
-#### What functions that I used in SQL:
-1. Group by
-2. Order by
-3. Joins
-4. Aggregate Functions
-5. Converting Data Types
-6. Windows Functions
-7. Temp Table
+#### Project Deliverables:
+
+1. A report summarizing the key findings and insights from the analysis.
+2. Interactive dashboards and charts showing the COVID-19 data analysis and visualization.
+3. SQL scripts used for cleaning, analyzing, and manipulating the data.
+4. Tableau workbooks and visualizations.
+
+---
+
+#### Expected Outcomes:
+1. Gain insights into the total cases vs total deaths
+2. Total cases vs population
+3. Percentage of population infected with Covid-19
+4. Countries with the highest infection rate and death count compared to the population
+5. Continents with the highest death count
+6. Global numbers
+7. % of population that has received at least one COVID-19 vaccine
+8. Visualize the data in an interactive dashboard **(Global Vaccinations Tracker)** that allows users to explore and interact with the data.
 
 ---
 
