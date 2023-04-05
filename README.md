@@ -18,7 +18,7 @@ This project aims to collect, explore, clean, analyze, and visualize COVID-19 da
 - Converting data types
 - Windows functions
 - Temp table
-- Visualize the data using Tableau by creating interactive dashboards and charts.
+5. Visualize the data using Tableau by creating interactive dashboards and charts.
 
 ---
 
