@@ -1,6 +1,5 @@
 ## Data Analyst Portofolio using Microsoft SQL Server (SSMS) and Tableau.
 
----
 
 #### Flow for this Portofolio:
 1. Collect and Explore the data *(using SQL Server)*
