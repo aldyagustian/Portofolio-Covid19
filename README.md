@@ -43,21 +43,6 @@ This project aims to collect, explore, clean, analyze, and visualize COVID-19 da
 
 ---
 
-#### For the Data Visualization Dashboard I'm showing:
-1. Covid Dashboard
-- Global Numbers
-- Total Death per Continent
-- Percent population infected by Country
-- Highest Infection Per Country
-2. Global Vaccinations Tracker
-- Interactive Dashboard (you can choose the date and the country)
-- How many people has been partly or fully vaccinated
-- Fully vaccinated over population VS Partially vaccinated over population
-- % people with at least one dose vaccinations per Country
-- How does GDP per capita effect vaccinations?
-
----
-
 #### You can check all of it using this link:
 1. Data sources
 - [Covid-19 Deaths](../blob/main/CovidDeaths.xlsx)
